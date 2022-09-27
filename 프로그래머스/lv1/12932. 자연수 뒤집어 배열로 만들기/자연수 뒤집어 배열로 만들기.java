@@ -13,7 +13,9 @@ class Solution {
             answer[nToString.length -1 -i] = Integer.parseInt(nToString[i]);
             //System.out.println(nToString.length -1 -i);
         }
-
+  
+        
+        
         return answer;
     }
 }
